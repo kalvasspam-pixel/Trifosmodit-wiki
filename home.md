@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2026-08-29T16:16:15.745Z
 ---
 
-# Vítejte na první dedikované encyklopedii oprav Škody 1000MB!
+# Vítejte na první dedikované encyklopedii oprav Škody 1000MB!!
 Najdete zde všechny naše zkušenosti a informace, týkající se tohoto úžasného vozu, na jednom místě.
 <br>
 
