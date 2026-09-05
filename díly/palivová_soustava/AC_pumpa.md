@@ -2,7 +2,7 @@
 title: AC pumpa
 description: 
 published: true
-date: 2026-09-05T11:02:20.240Z
+date: 2026-09-05T11:43:12.668Z
 tags: palivová soustava
 editor: markdown
 dateCreated: 2026-08-30T19:52:36.867Z
@@ -16,7 +16,7 @@ Tento karburátor se instaloval do původních vozů. Má difůzor s průměrem 
 <br>
 <figure>
   <figcaption>Obr.1</figcaption> 
-  <a href="/ac_pumpa_nakres_bily.svg"><img src="/ac_pumpa_nakres.png" alt="Přední foto karburátoru Jikov BS DIF 23" 		width="600px"> </a>
+  <a href="/ac_pumpa_nakres_bily.svg"><img src="/ac_pumpa_diagram.png" alt="Přední foto karburátoru Jikov BS DIF 23" 		width="600px"> </a>
 </figure>
 
 ### Části karburátoru Jtkov BS DIF 23
