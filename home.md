@@ -2,13 +2,13 @@
 title: 
 description: Buďte uvedeni
 published: true
-date: 2026-09-04T21:29:51.229Z
+date: 2026-09-05T11:37:49.997Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-29T16:16:15.745Z
 ---
 
-# Vítejte na první dedikované encyklopedii oprav Škody 1000MB!!
+# Vítejte na první dedikované encyklopedii oprav Škody 1000MB!!!
 Najdete zde všechny naše zkušenosti a informace, týkající se tohoto úžasného vozu, na jednom místě.
 <br>
 
