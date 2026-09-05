@@ -2,7 +2,7 @@
 title: Karburátor
 description: Příprava zápalné směsy benzínu a vzduchu
 published: true
-date: 2026-09-05T12:46:25.326Z
+date: 2026-09-05T13:10:13.176Z
 tags: palivová soustava
 editor: markdown
 dateCreated: 2026-08-30T17:34:30.378Z
@@ -11,7 +11,7 @@ dateCreated: 2026-08-30T17:34:30.378Z
 # Typy karburátorů ve Škodě 1000MB
 Ve Škodě 1000MB může být hned několik typů karburátoru v závislosti na době výroby a případných povýrobních opravách a úpravách. Zde jsou známé typy karburátorů:
 
-## Jikov 32
+## Jikov 32 BS DIF 23
 Tento karburátor se instaloval do původních vozů. Má difůzor s průměrem 23mm (odtud jeho název). Instaloval se také do vozů Škoda 100, 100L a 110.
 <br>
 <figure>
@@ -43,6 +43,8 @@ Tento karburátor se instaloval do původních vozů. Má difůzor s průměrem 
 #### 7. Podstava s otvory na připevnění karburátoru (nejspodnější část s dvěmi děrami)
 - Část karburátoru určená k mechanickému připevnění k motoru. 
 
+
+## Jikov 32 BST 3120 DIF 18
 # Zdroje
 Obr. 1: ForVeteran. Karburátor JIKOV BS DIF 23 ŠKODA 1000MB, 100, 100L [online]. Dostupné z: https://www.for-veteran.eu [cit. 2026-08-31].
 
