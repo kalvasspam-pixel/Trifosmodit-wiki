@@ -2,7 +2,7 @@
 title: Karburátor
 description: Příprava zápalné směsy benzínu a vzduchu
 published: true
-date: 2026-09-05T13:10:13.176Z
+date: 2026-09-05T13:28:31.174Z
 tags: palivová soustava
 editor: markdown
 dateCreated: 2026-08-30T17:34:30.378Z
@@ -44,7 +44,8 @@ Tento karburátor se instaloval do původních vozů. Má difůzor s průměrem 
 - Část karburátoru určená k mechanickému připevnění k motoru. 
 
 
-## Jikov 32 BST 3120 DIF 18
+## Jikov 32 BST DIF 18
+Tento 
 # Zdroje
 Obr. 1: ForVeteran. Karburátor JIKOV BS DIF 23 ŠKODA 1000MB, 100, 100L [online]. Dostupné z: https://www.for-veteran.eu [cit. 2026-08-31].
 
