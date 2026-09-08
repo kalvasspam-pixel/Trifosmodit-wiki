@@ -2,7 +2,7 @@
 title: Karburátor
 description: Příprava zápalné směsy benzínu a vzduchu
 published: true
-date: 2026-09-08T11:04:29.485Z
+date: 2026-09-08T11:05:31.073Z
 tags: palivová soustava
 editor: markdown
 dateCreated: 2026-08-30T17:34:30.378Z
@@ -27,7 +27,7 @@ Tento karburátor se instaloval do původních vozů Škoda 1000 MB. Číslo 32 
 - Na válec je pomocí spon připevněna sploštělá trubice která vede až k zadní mřížce vozu a tam nasává vzduch.
 #### 2. Táhlo sytiče (páčka vlevo při pohledu zepředu)
 - Táhlo používané pro vypnutí a zapnutí sytiče.
-- Původně se vozy dodávali s termosytičem který se pomocí bimetalického proužku samospínal teplem z motoru.
+- Původně se vozy dodávali s termosytičem který se pomocí bimetalického pružinky samospínal teplem z motoru.
 #### 3. Hrdlo pro hadičku na přívod olejové mlhoviny do sytiče (trubička nad páčkou akcelerátoru) ^[Cit.1]^
 - Tento způsob propojení hadičky byl u prvních motorů.
 - Měl za účel přisávat olejovou mlhovinu, která vznikala v klikové skříni motoru. Přisáváním olejové mlhoviny byla mastnější směs, což mělo nahradit kdysi vrchní mazání, a to kvůli ventilům. Tato malá trubička pak sloužila pro přívod olejové mlhoviny přímo do okruhu sytiče, neboť složení směsi při činnosti sytiče je až 1 : 1, tedy velké množství benzinu a stejné množství vzduchu.
