@@ -2,7 +2,7 @@
 title: Karburátor
 description: Příprava zápalné směsy benzínu a vzduchu
 published: true
-date: 2026-09-05T13:28:31.174Z
+date: 2026-09-08T11:04:29.485Z
 tags: palivová soustava
 editor: markdown
 dateCreated: 2026-08-30T17:34:30.378Z
@@ -11,8 +11,8 @@ dateCreated: 2026-08-30T17:34:30.378Z
 # Typy karburátorů ve Škodě 1000MB
 Ve Škodě 1000MB může být hned několik typů karburátoru v závislosti na době výroby a případných povýrobních opravách a úpravách. Zde jsou známé typy karburátorů:
 
-## Jikov 32 BS DIF 23
-Tento karburátor se instaloval do původních vozů. Má difůzor s průměrem 23mm (odtud jeho název). Instaloval se také do vozů Škoda 100, 100L a 110.
+## Jikov 32 BS (BST)-13/18 DIF 23
+Tento karburátor se instaloval do původních vozů Škoda 1000 MB. Číslo 32 znamená rozměr hrdla, BS (B – typová řada, S – spádový) značí verzi s mechanicky ovládaným sytičem, písmeno T v BST značí termosytič (sytič ovládaný podle bimetalové pružinky, čím větší byla teplota motoru tím více se pružinka roztáhla a sytič postupně ubíral). Číslo 13 v tomto případě značí soustavu trysek a vzdušníků (u modelu 1966 byla soustava 18) DIF=Difuzor a jeho průměr tedy 23mm. Instaloval se také do vozů Škoda 100, 100L a 110.
 <br>
 <figure>
   <figcaption>Obr.1+2</figcaption>
@@ -34,8 +34,10 @@ Tento karburátor se instaloval do původních vozů. Má difůzor s průměrem 
 #### 4. Hrdlo pro hadičku na přívod paliva (trubička na odvrácené straně)
 - Na toto hrdlo se připevňuje palivová hadička vedoucí z [palivové pumpy.](/cs/díly/palivová_soustava/AC_pumpa)
 #### 5. Dva seřizovací šrouby (šrouby s pružinkou)
-- Šrouby používané k seřízení volnoběhu motoru. 
-> Potřeba dospat.
+- Při pohledu na karburátor můžete v přední části spatřit v boku umístěné dva šrouby s regulační pružinkou. 
+- Horní šroub je šroub volnoběhu, ovládá otevření škrtící klapky. Seřiďte ho tak aby byla klapka jemně pootevřená. Seřizujte při běhu motoru, postupním laborováním naleznete místo kde motor neběží na zbytečně velké otáčky ale zároveň vám motor nechcípá. Pokud si nejsme jisti kde začít dotáhneme šroub naplno (Proto ta pružinka) a povolíme o 1 až 1,5 otáčky. Poté motor nastartujeme a postupujeme dle návodu výše.
+- Dolní šroub je šroub bohatosti, ovládá poměr benzínu a vzduchu který putuje do válců. Pokud je chod motoru nepravidelný, směs je příliš bohatá. Pokud při uvolnění plynového pedálu (akcelerátoru) motor začne zhasínat a běh motoru kolísat je směs příliš chudá. Pokud si nejsme jisti kde začít dotáhneme šroub naplno (Proto ta pružinka) a povolíme přesně o 2 otáčky. 
+> Hobit to dospal.
 {.is-info}
 
 #### 6. Táhlo akcelerátoru (mosazná páčka s pružinkou)
