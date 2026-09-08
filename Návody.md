@@ -1,8 +1,8 @@
 ---
-title: Zdokumentované díly
+title: Návody
 description: Rozcestník ke všem dílům se kterými jsme měli čest.
 published: true
-date: 2026-09-08T11:12:32.732Z
+date: 2026-09-08T11:15:25.961Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-08T11:12:32.732Z
