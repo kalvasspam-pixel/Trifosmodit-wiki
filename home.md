@@ -2,7 +2,7 @@
 title: 
 description: Buďte uvedeni
 published: true
-date: 2026-09-08T11:09:08.394Z
+date: 2026-09-08T11:09:23.088Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-29T16:16:15.745Z
