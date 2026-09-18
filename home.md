@@ -2,7 +2,7 @@
 title: 
 description: Buďte uvedeni
 published: true
-date: 2026-09-18T18:58:31.407Z
+date: 2026-09-18T19:45:10.560Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-29T16:16:15.745Z
@@ -22,7 +22,7 @@ Najdete zde všechny naše zkušenosti a informace, týkající se tohoto úžas
   Fotogalerie
 </a>
 <a href="/fotogalerie" class="button">
-  wifi je mrdka
+  wifi je mrdka!!!
   </a>
 
 
