@@ -2,14 +2,14 @@
 title: AC pumpa
 description: 
 published: true
-date: 2026-09-19T07:58:04.259Z
+date: 2026-09-19T08:07:13.743Z
 tags: palivová soustava
 editor: markdown
 dateCreated: 2026-08-30T19:52:36.867Z
 ---
 
 # Typy AC pump ve Škodě 1000MB
-AC pumpa, nebo také palivové čerpadlo či pumpa je součást palivové soustavy ve Škodě 1000MB. AC pumpa ukázána na obrázku č.2 je právě z tohoto vozu.
+AC pumpa, nebo také palivové čerpadlo či pumpa je součást palivové soustavy ve Škodě 1000MB. AC pumpa ukázána na obrázku č.2 je právě z tohoto vozu.  Název „AC“ pochází od původního historického výrobce AC Delco, který tato čerpadla proslavil.
 
 
 <figure>
@@ -49,3 +49,34 @@ AC pumpa, nebo také palivové čerpadlo či pumpa je součást palivové sousta
 1.  Segment Benzing
 1.  Čep páčky
 1.  Spona hadice
+
+# Jak AC pumpa funguje?
+
+- ***Mechanický pohon:***
+Čerpadlo je přišroubované k bloku motoru. Je poháněno mechanicky – pohybem vačkového hřídele motoru, který tlačí na páčku čerpadla.
+- ***Práce membrány:*** 
+Páčka uvnitř pumpy pohybuje gumovou membránou nahoru a dolů. Tím vzniká podtlak, který nasává palivo z nádrže, a následný přetlak ho tlačí dál do motoru.
+- ***Ruční páčka:***
+Většina AC pump má na sobě malou ruční páčku. Ta slouží k ručnímu napumpování benzínu do karburátoru, pokud auto dlouho stálo a benzín z potrubí mezitím vyprchal nebo spadnul zpět do nádrže.
+
+
+
+
+
+
+
+
+---
+
+---
+
+---
+
+
+
+
+
+
+
+
+
