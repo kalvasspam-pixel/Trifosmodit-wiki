@@ -2,7 +2,7 @@
 title: 
 description: Buďte uvedeni
 published: true
-date: 2026-10-07T16:42:57.217Z
+date: 2026-10-07T16:46:01.723Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-29T16:16:15.745Z
@@ -12,18 +12,15 @@ dateCreated: 2026-08-29T16:16:15.745Z
 Najdete zde všechny naše zkušenosti a informace, týkající se tohoto úžasného vozu, na jednom místě.
 <br>
 
-<a href="/díly" class="button">
-  Zdokumentované díly
 </a>
 <a href="/deníček_oprav" class="button">
   Deníček oprav
 </a>
+<a href="/díly" class="button">
+  Zdokumentované díly
 <a href="/fotogalerie" class="button">
   Fotogalerie
 </a>
-<a href="/fotogalerie" class="button">
-  
-  </a>
 
 
 
