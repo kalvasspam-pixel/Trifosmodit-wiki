@@ -2,7 +2,7 @@
 title: 
 description: Buďte uvedeni
 published: true
-date: 2026-10-07T16:46:01.723Z
+date: 2026-10-07T16:46:09.744Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-29T16:16:15.745Z
@@ -21,8 +21,6 @@ Najdete zde všechny naše zkušenosti a informace, týkající se tohoto úžas
 <a href="/fotogalerie" class="button">
   Fotogalerie
 </a>
-
-
 
 <div style="display: flex; align-items: flex-start; gap: 24px; flex-wrap: wrap;">
 
