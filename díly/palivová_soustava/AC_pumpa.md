@@ -2,7 +2,7 @@
 title: AC pumpa
 description: 
 published: true
-date: 2026-09-19T08:07:13.743Z
+date: 2026-10-07T16:50:14.910Z
 tags: palivová soustava
 editor: markdown
 dateCreated: 2026-08-30T19:52:36.867Z
@@ -21,6 +21,7 @@ AC pumpa, nebo také palivové čerpadlo či pumpa je součást palivové sousta
 # Části AC pumpy
 
 <figure>
+  <br>
   <figcaption>Obr.2</figcaption> 
   <a href="/ac_pumpa_nakres_bily.svg"><img src="/ac_pumpa_diagram.png" alt="Přední foto karburátoru Jikov BS DIF 23" 		width="600px"> </a>
 </figure>
