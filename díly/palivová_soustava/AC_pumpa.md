@@ -2,7 +2,7 @@
 title: AC pumpa
 description: 
 published: true
-date: 2026-10-07T16:50:14.910Z
+date: 2026-10-07T16:51:07.812Z
 tags: palivová soustava
 editor: markdown
 dateCreated: 2026-08-30T19:52:36.867Z
@@ -59,25 +59,3 @@ AC pumpa, nebo také palivové čerpadlo či pumpa je součást palivové sousta
 Páčka uvnitř pumpy pohybuje gumovou membránou nahoru a dolů. Tím vzniká podtlak, který nasává palivo z nádrže, a následný přetlak ho tlačí dál do motoru.
 - ***Ruční páčka:***
 Většina AC pump má na sobě malou ruční páčku. Ta slouží k ručnímu napumpování benzínu do karburátoru, pokud auto dlouho stálo a benzín z potrubí mezitím vyprchal nebo spadnul zpět do nádrže.
-
-
-
-
-
-
-
-
----
-
----
-
----
-
-
-
-
-
-
-
-
-
